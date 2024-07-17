@@ -26,6 +26,5 @@ describe('ProductsService', () => {
     expect(service).toBeDefined();
   });
 
-  // Add more test cases for ProductsService as needed
-  // Example: Test service methods, integration with ProductRepository, etc.
+
 });
